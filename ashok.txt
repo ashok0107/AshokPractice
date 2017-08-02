@@ -1,0 +1,7 @@
+hi this is git practice
+<<<<<<< HEAD
+Hi added new line
+Adding third line
+=======
+adding line remote repository
+>>>>>>> 237ceccfabb43b454cdb3c30dc70f19026004717
